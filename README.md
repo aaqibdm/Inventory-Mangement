@@ -1,2 +1,2 @@
 # Inventory-Mangement
-I create a Inventory-Mangement-System websit using MERN
+I create a Inventory-Mangement-System WebApplication using MERN
